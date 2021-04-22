@@ -1,0 +1,35 @@
+{
+  "name": "@fullcalendar/interaction",
+  "version": "5.6.0",
+  "title": "FullCalendar Interaction Plugin",
+  "description": "Provides functionality for event drag-n-drop, resizing, dateClick, and selectable actions",
+  "docs": "https://fullcalendar.io/docs/editable",
+  "dependencies": {
+    "@fullcalendar/common": "~5.6.0",
+    "tslib": "^2.0.3"
+  },
+  "main": "main.cjs.js",
+  "module": "main.js",
+  "types": "main.d.ts",
+  "jsdelivr": "main.global.min.js",
+  "browserGlobal": "FullCalendarInteraction",
+  "homepage": "https://fullcalendar.io/",
+  "bugs": "https://fullcalendar.io/reporting-bugs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fullcalendar/fullcalendar.git",
+    "homepage": "https://github.com/fullcalendar/fullcalendar"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Adam Shaw",
+    "email": "arshaw@arshaw.com",
+    "url": "http://arshaw.com/"
+  },
+  "devDependencies": {
+    "@fullcalendar/core-preact": "5.6.0"
+  },
+  "__npminstall_done": "Thu Apr 15 2021 12:05:33 GMT+0800 (GMT+08:00)",
+  "_from": "@fullcalendar/interaction@5.6.0",
+  "_resolved": "https://registry.npm.taobao.org/@fullcalendar/interaction/download/@fullcalendar/interaction-5.6.0.tgz?cache=0&sync_timestamp=1616993569707&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40fullcalendar%2Finteraction%2Fdownload%2F%40fullcalendar%2Finteraction-5.6.0.tgz"
+}
